@@ -1,0 +1,1 @@
+Simple sketchpad with the amount of squares desired. Once a sqaure is hovered it changes color.
